@@ -16,3 +16,7 @@ A simple and user-friendly **weather application** that provides real-time weath
 - **HTML, CSS, JavaScript**
 - **Bootstrap (for styling)**
 - **Weather API (e.g., OpenWeatherMap)**
+
+## Demo URL
+
+This project can also be run by accessing the following link: https://weatherappitschool-alexd.netlify.app/
